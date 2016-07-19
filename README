@@ -1,0 +1,32 @@
+author: Jiazheng Sun
+This is a modified verison of the popular galga game!
+
+Credit:
+
+This is my first try of implementing a game; I learned a lot of tricks from ndass6.
+Here is his repo link: https://github.com/ndass6/Galaga
+
+Details:
+In this game, you CANNOT shoot! All you can do is to dodge all the suicidal bugs charging at you!
+If you got hit by a bug, both you and the bug die.
+
+
+Don't worry, once the bug hits the wall, it will get trapped by the dark force of the universe and will do no harm anymore.
+Once it passes you, it won't come back either, as they give up easily.
+
+Use arrows keys to move the ship up, down, left and right.
+
+In the start scene ,press button B ('X' on keyboard) to play.
+When you lost a live but not all yet, press Enter to continue.
+When you lost all lives, press Enter to go back to start scene.
+When you clear a level but not all yet, press Enter to try the next level.
+When you beat the game, press Enter to go back to start scene.
+
+In the middle of the game, press button A ('Z' on keyboard) anytime to reset the game.
+WARNING: doing so will reset everything and send you back to level 1, restoring all lives and eneimes!
+
+Tip:
+Try to find a gap to move to the upper part of the screen, since bugs only know charging forward.
+
+
+And MOST IMPORTANTLY: HAVE FUN!!!!
